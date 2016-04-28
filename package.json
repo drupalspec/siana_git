@@ -1,0 +1,17 @@
+{
+  "name": "gulp",
+  "version": "0.0.1",
+  "description": "Gulp Recipe based",
+  "author": "Drupalspec",
+  "devDependencies": {
+    "gulp": "~3.6.2",
+    "gulp-util": "~2.2.12",
+    "gulp-stylus": "^0.2.1",
+    "gulp-jade": "~0.3.0",
+    "express": "~3.4.8",
+    "connect-livereload": "~0.5.4",
+    "tiny-lr": "0.0.5",
+    "gulp-imagemin": "^2.2.1",
+    "imagemin-pngquant": "^4.0.0"
+  }
+}
